@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Food_Delivery_Restaurant</string>
+    <!-- All application string resource -->
+    <string name="something_went_wrong">Что-то пошло не так</string>
+    <!-- Menu item -->
+    <string name="account_menu_item">Аккаунт</string>
+    <string name="dishes_list_menu_item">Список блюд</string>
+    <string name="add_dishes_menu_item">Добавить блюдо</string>
+    <string name="order_list_menu_item">Список заказов</string>
+    <!-- Auth activity -->
+    <string name="auth_activity_text_view_description">Авторизация</string>
+    <string name="auth_activity_hint_email">E-mail</string>
+    <string name="auth_activity_hint_password">Пароль</string>
+    <string name="auth_activity_btn_text_enter">Войти</string>
+    <string name="auth_activity_text_view_reset_password">Забыли пороль?</string>
+    <string name="auth_activity_toast_email_fill">Заполните email</string>
+    <string name="auth_activity_toast_password_fill">Заполните пароль</string>
+    <string name="auth_activity_toast_url_send_email">Ссылка для восстановление пароля отправлена на email</string>
+    <!-- Account fragment -->
+    <string name="account_fragment_btn_text_exit">Выйти</string>
+    <string name="add_dishes_fragment_edt_text_name">Название блюда</string>
+    <string name="add_dishes_fragment_edt_text_coast">Цена блюда</string>
+    <string name="add_dishes_fragment_btn_add">Добавить</string>
+    <string name="dishes_list_fragment_btn_delivered">Доставлено</string>
+</resources>
